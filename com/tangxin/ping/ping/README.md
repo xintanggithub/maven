@@ -50,5 +50,13 @@ implementation 'com.tangxin.ping:ping:1.0.1'
     }, "需要ping的域名", "重试次数(不填默认1)", "重试间隔时间，毫秒（不填默认3000ms）").execute()
 ```
 
+#### 三、注意
+
+如果在可以ping通的情况下，无法ping通，请检查相关权限。
+
+android下自带ping功能system权限即可。
+
+[Runtime权限参考这里](https://blog.csdn.net/u011319826/article/details/49784623)
+
 
 
