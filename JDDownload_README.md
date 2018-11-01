@@ -53,7 +53,7 @@ public class MyApplication extends Application {
     public void onCreate() {
         super.onCreate();
         JDDownLoadManager.getInstance().init(this)
-                .setDebugLog(true) //开始debug日志
+                .setDebugLog(true) //开启debug日志
                 .setMaxThreadCount(3)//并发任务3个
                 .setRetryCount(2);//重试次数2次
     }
