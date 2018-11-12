@@ -42,7 +42,7 @@ task clean(type: Delete) {
 2. 对应maodule下build.gradle添加
 
 ```
-implementation 'com.jd.download:lib:1.0.1'
+implementation 'com.tangxin.download:lib:1.0.1'
 ```
 ### 使用
 1. 在application的onCreate中初始化，以及配置
