@@ -49,7 +49,6 @@ implementation 'com.tangxin.ping:ping:1.0.1'
          }
     }, "需要ping的域名", "重试次数(不填默认1)", "重试间隔时间，毫秒（不填默认3000ms）").execute()
 ```
-[link](https://blog.csdn.net/u011319826/article/details/49784623)
 
 
 
