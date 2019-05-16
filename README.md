@@ -5,6 +5,9 @@
      2. recyvleView BaseAdapter修复footer显示逻辑BUG，添加replace方法，更新V1.0.2版本。 
         2019年05月15日15:16:11更新
 
+### com.tson.utils.lib.download([如何使用点这里](https://github.com/xintanggithub/utils/blob/master/utilsdownload/UTILS_DOWNLOAD.md))【持续更新】
+     1. 下载模块添加，简单集成，暂未放开拓展模块。2019年05月16日14:49:50更新
+
 ### com.tson.utils.lib.iv ([如何使用点这里](https://github.com/xintanggithub/utils/blob/master/utilslibimage/UTILS_IV.md)) 【持续更新】
      1. GlideUtil 提供图片加载部分功能（圆角、圆形、渐变显示等，简单工具，待添加完善）。2019年05月06日14:56:22更新
 
