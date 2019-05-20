@@ -4,6 +4,7 @@
      1. recycleView BaseAdapter添加完全支持自定义的footerView。2019年05月06日11:58:55更新
      2. recyvleView BaseAdapter修复footer显示逻辑BUG，添加replace方法，更新V1.0.2版本。 
         2019年05月15日15:16:11更新
+     3. 添加TabButton. 发布v1.0.3版本。拓展方法待实现。 2019年05月20日11:43:23更新
 
 ### com.tson.utils.lib.download([如何使用点这里](https://github.com/xintanggithub/utils/blob/master/utilsdownload/UTILS_DOWNLOAD.md))【持续更新】
      1. 下载模块添加，简单集成，暂未放开拓展模块。2019年05月16日14:49:50更新
