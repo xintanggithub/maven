@@ -5,6 +5,7 @@
      2. recyvleView BaseAdapter修复footer显示逻辑BUG，添加replace方法，更新V1.0.2版本。 
         2019年05月15日15:16:11更新
      3. 添加TabButton. 发布v1.0.4版本。 2019年05月20日11:43:23更新
+     4. tabButton增加icon宽高、水波纹、字体颜色统一设置的自定义属性。发布v1.0.5。2019年05月21日16:46:48更新
 
 ### com.tson.utils.lib.download([如何使用点这里](https://github.com/xintanggithub/utils/blob/master/utilsdownload/UTILS_DOWNLOAD.md))【持续更新】
      1. 下载模块添加，简单集成，暂未放开拓展模块。2019年05月16日14:49:50更新
