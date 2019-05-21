@@ -14,6 +14,7 @@
 
 ### com.tson.utils.lib.util ([如何使用点这里](https://github.com/xintanggithub/utils/blob/master/utilslib/UTILS_UTILS.md))【持续更新】
      1. 内有字符串、尺寸、图片处理、文件管理、缓存处理、时间格式处理等工具，持续添加中。2019年05月08日16:13:29更新
+     2. 添加fielUtils  copyFile方法。2019年05月21日15:15:42 更新
 
 ### com.tangxin.ping ([如何使用点这里](https://github.com/xintanggithub/maven/blob/master/explan/PING_README.MD)) 【暂停维护】
      1. PingUtils,检测网络是否可以ping通,2018年10月24日14:08:59更新
