@@ -12,6 +12,7 @@
      1. 下载模块添加，简单集成，暂未放开拓展模块。2019年05月16日14:49:50更新
      2. 添加UI刷新频率方法，添加OkHttpClient.Builder自定义方法（用于SSL验证超时设置等操作）。
      更新版本v1.0.4。2019年05月27日10:57:29更新
+     3. 更新初始化方式。发布v1.0.6版本。2019年05月28日09:57:28更新。
 
 ### com.tson.utils.lib.iv ([如何使用点这里](https://github.com/xintanggithub/utils/blob/master/utilslibimage/UTILS_IV.md)) 【持续更新】
      1. GlideUtil 提供图片加载部分功能（圆角、圆形、渐变显示等，简单工具，待添加完善）。2019年05月06日14:56:22更新
