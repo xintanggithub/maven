@@ -8,6 +8,7 @@
      4. tabButton增加icon宽高、水波纹、字体颜色统一设置的自定义属性。发布v1.0.5。2019年05月21日16:46:48更新
      5. tabButton更新每个button的padding属性设置。发布v1.0.6版本，2019年05月22日14:58:41更新。
      6. BaseAdapter点击方法拓展。发布1.0.12版本，2019年07月05日10:19:12更新。
+     7. FixAppBarLayoutBehavior自定义，解决AppBarLayout嵌套recycleView快速滑动，首次点击无效，发布1.0.20版本，2019年07月22日19:17:22更新。
 
 ### com.tson.utils.lib.download([如何使用点这里](https://github.com/xintanggithub/utils/blob/master/utilsdownload/UTILS_DOWNLOAD.md))【持续更新】
      1. 下载模块添加，简单集成，暂未放开拓展模块。2019年05月16日14:49:50更新
