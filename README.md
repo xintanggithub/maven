@@ -27,6 +27,7 @@
 ### com.tson.utils.lib.iv ([如何使用点这里](https://github.com/xintanggithub/utils/blob/master/utilslibimage/UTILS_IV.md)) 【持续更新】
      1. GlideUtil 提供图片加载部分功能（圆角、圆形、渐变显示等，简单工具，待添加完善）。2019年05月06日14:56:22更新
      2. 新增圆形背景显示，前景为none,模糊方法（提供超过25f极限模糊的实现方法）。发布v1.0.12版本。2019年07月05日10:21:27更新。
+     3. 更新glide至4.9.0。发布v1.0.16版本。2020年05月22日更新。
 
 ### com.tson.utils.lib.util ([如何使用点这里](https://github.com/xintanggithub/utils/blob/master/utilslib/UTILS_UTILS.md))【持续更新】
      1. 内有字符串、尺寸、图片处理、文件管理、缓存处理、时间格式处理等工具，持续添加中。2019年05月08日16:13:29更新
