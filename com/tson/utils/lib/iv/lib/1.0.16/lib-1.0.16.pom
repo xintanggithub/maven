@@ -2,39 +2,27 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.tson.utils.view</groupId>
+  <groupId>com.tson.utils.lib.iv</groupId>
   <artifactId>lib</artifactId>
-  <version>1.0.22</version>
+  <version>1.0.16</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>recyclerview-v7</artifactId>
-      <version>28.0.0</version>
+      <groupId>com.github.bumptech.glide</groupId>
+      <artifactId>glide</artifactId>
+      <version>4.9.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>design</artifactId>
-      <version>28.0.0</version>
+      <groupId>jp.wasabeef</groupId>
+      <artifactId>glide-transformations</artifactId>
+      <version>4.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.databinding</groupId>
-      <artifactId>baseLibrary</artifactId>
-      <version>3.2.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.databinding</groupId>
-      <artifactId>library</artifactId>
-      <version>3.2.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.databinding</groupId>
-      <artifactId>adapters</artifactId>
-      <version>3.2.1</version>
+      <groupId>com.github.bumptech.glide</groupId>
+      <artifactId>okhttp3-integration</artifactId>
+      <version>4.8.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
