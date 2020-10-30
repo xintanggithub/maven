@@ -3,7 +3,11 @@
   <groupId>com.easy.base.androidx</groupId>
   <artifactId>lib</artifactId>
   <versioning>
+<<<<<<< HEAD
     <release>1.0.22</release>
+=======
+    <release>1.0.21</release>
+>>>>>>> 60388c0e9e109f953da9205c49d565164b36ef23
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -27,8 +31,13 @@
       <version>1.0.19</version>
       <version>1.0.20</version>
       <version>1.0.21</version>
+<<<<<<< HEAD
       <version>1.0.22</version>
     </versions>
     <lastUpdated>20201030103421</lastUpdated>
+=======
+    </versions>
+    <lastUpdated>20201030101218</lastUpdated>
+>>>>>>> 60388c0e9e109f953da9205c49d565164b36ef23
   </versioning>
 </metadata>
