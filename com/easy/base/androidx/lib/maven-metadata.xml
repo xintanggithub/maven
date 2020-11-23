@@ -3,7 +3,7 @@
   <groupId>com.easy.base.androidx</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>1.1.12</release>
+    <release>1.1.13</release>
     <versions>
       <version>1.0.26</version>
       <version>1.0.27</version>
@@ -36,7 +36,8 @@
       <version>1.1.10</version>
       <version>1.1.11</version>
       <version>1.1.12</version>
+      <version>1.1.13</version>
     </versions>
-    <lastUpdated>20201123062618</lastUpdated>
+    <lastUpdated>20201123131305</lastUpdated>
   </versioning>
 </metadata>
