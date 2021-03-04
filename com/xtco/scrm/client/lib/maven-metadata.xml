@@ -3,13 +3,14 @@
   <groupId>com.xtco.scrm.client</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>key</release>
+    <release>1.0.3</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>key</version>
+      <version>1.0.3</version>
     </versions>
-    <lastUpdated>20210226073906</lastUpdated>
+    <lastUpdated>20210304052944</lastUpdated>
   </versioning>
 </metadata>
