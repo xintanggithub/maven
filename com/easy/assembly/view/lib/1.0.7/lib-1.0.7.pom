@@ -46,19 +46,19 @@
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-common</artifactId>
-      <version>3.5.0</version>
+      <version>3.5.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-runtime</artifactId>
-      <version>3.5.0</version>
+      <version>3.5.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-adapters</artifactId>
-      <version>3.5.0</version>
+      <version>3.5.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
