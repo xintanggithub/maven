@@ -9,7 +9,7 @@
   <dependencies>
     <dependency>
       <groupId>Distribution</groupId>
-      <artifactId>library</artifactId>
+      <artifactId>lib</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
