@@ -3,13 +3,14 @@
   <groupId>com.easy.assembly.http</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>1.0.3b</release>
+    <release>1.0.3e</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>1.0.3b</version>
+      <version>1.0.3e</version>
     </versions>
-    <lastUpdated>20211125084825</lastUpdated>
+    <lastUpdated>20211125091213</lastUpdated>
   </versioning>
 </metadata>
